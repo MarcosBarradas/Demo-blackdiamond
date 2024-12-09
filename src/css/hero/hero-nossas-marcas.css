@@ -27,3 +27,14 @@
 .logo-impressora img{
     max-width: 100px;
 }
+
+@media screen and (max-width: 500px){
+  .marcas-logos {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 400px){
+  .marcas-logos {
+    width: 100%;
+  }
+}

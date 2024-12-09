@@ -59,8 +59,10 @@
 }
 
 .rodape p {
-    width: 80%;
+    width: 100%;
+    font-size: 0.875rem;
     margin: auto;
+    justify-content: center;
     text-align: center;
     line-height: 2;
 }

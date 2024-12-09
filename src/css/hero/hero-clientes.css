@@ -25,3 +25,14 @@
 .logo-grandes-empresas img{
   max-width: 100px;
 }
+
+@media screen and (max-width: 500px){
+  .lista-grandes-empresas {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 400px){
+  .lista-grandes-empresas {
+    width: 100%;
+  }
+}
