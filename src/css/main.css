@@ -1,3 +1,4 @@
+@import './reset/reset.css';
 @import './depoimentos/depoimentos.css';
 @import './descricao-empresa/descricao-empresa.css';
 @import './header/header.css';
@@ -5,7 +6,6 @@
 @import './hero/hero-cards.css';
 @import './hero/hero-clientes.css';
 @import './hero/hero-nossas-marcas.css';
-@import './reset/reset.css';
 @import './rodape/rodape.css';
 @import './tipos-clientes/tipos-clientes.css';
 @import './tipos-clientes/tipos-clientes.css';
